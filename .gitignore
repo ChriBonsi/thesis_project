@@ -1,5 +1,7 @@
 ### Custom ###
 /datasets/
+/generated_trajectories/
+/parameters/
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,python,jupyternotebooks,jetbrains+all,macos,visualstudiocode,cuda,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,python,jupyternotebooks,jetbrains+all,macos,visualstudiocode,cuda,git
